@@ -93,6 +93,7 @@
                                 </application>
                             </applications>
                             <valuemap/>
+                            <logtimefmt/>
                         </item_prototype>
                         <item_prototype>
                             <name>VZ:{#VZHOST}:CPU Usage (5 min average)</name>
@@ -135,6 +136,7 @@
                                 </application>
                             </applications>
                             <valuemap/>
+                            <logtimefmt/>
                         </item_prototype>
                         <item_prototype>
                             <name>VZ:{#VZHOST}:CPU Usage (15 min average)</name>
@@ -177,6 +179,7 @@
                                 </application>
                             </applications>
                             <valuemap/>
+                            <logtimefmt/>
                         </item_prototype>
                         <item_prototype>
                             <name>VZ:{#VZHOST}:Memory Used</name>
@@ -219,6 +222,7 @@
                                 </application>
                             </applications>
                             <valuemap/>
+                            <logtimefmt/>
                         </item_prototype>
                     </item_prototypes>
                     <trigger_prototypes/>
